@@ -1,1 +1,6 @@
 C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\bin\Debug\ASync.exe.config
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\bin\Debug\ASync.exe
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\bin\Debug\ASync.pdb
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\obj\Debug\ASync.csprojResolveAssemblyReference.cache
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\obj\Debug\ASync.exe
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\obj\Debug\ASync.pdb

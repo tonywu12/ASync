@@ -1,0 +1,5 @@
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\bin\Release\ASync.exe.config
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\bin\Release\ASync.exe
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\bin\Release\ASync.pdb
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\obj\Release\ASync.exe
+C:\Users\tony\Documents\GitHub\ASync\ASync\ASync\obj\Release\ASync.pdb
