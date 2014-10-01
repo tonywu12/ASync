@@ -16,7 +16,7 @@ namespace ASync
     /// <summary>
     /// Main program
     /// </summary>
-    private class Program
+    class Program
     {
         /// <summary>
         /// random rand
